@@ -1,4 +1,4 @@
-# Recursividad
+# Recursividad en la Programación Orientada a Objetos
 La recursividad (recursión) es aquella propiedad que posee un método por la cual puede llamarse
 a sí mismo. Aunque se puede utilizar la recursividad como una alternativa a la iteración, una
 solución recursiva es, normalmente, menos eficiente en términos de tiempo de computadora que
