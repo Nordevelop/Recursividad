@@ -7,6 +7,6 @@ suplementarias a los métodos; sin embargo, en muchas circunstancias, el uso de 
 permite a los programadores especificar soluciones naturales, sencillas, que serían, en caso contrario,
 difíciles de resolver. Por esta causa, la recursión es una herramienta poderosa e importante
 en la resolución de problemas y en la programación. Diversas técnicas algorítmicas utilizan la
-recursión, como los algoritmos divide y vence y los algoritmos de vuelta atrás.
+recursión, como los algoritmos DIVIDE Y VENCERAS y los algoritmos de vuelta atrás.
 
 
