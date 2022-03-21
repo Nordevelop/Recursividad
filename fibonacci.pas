@@ -4,6 +4,7 @@ const TiempoLimite=5;
         max=10000;
 type
   {estructura que almacena un numero digito a digito}
+  {Author Nordevelop}
   BigNum = record
              d : array[0..max] of byte;{arreglo  donde se guardan los digitos}
              l : Integer;{cant. de digitos del numero}
@@ -72,7 +73,8 @@ begin
   else
    if n<93 then
      WriteLn(fs,fib(n))
-   else begin
+   else 
+     begin
      f:=fib(92);
      Toma(a,x1);
      Toma(b,x2);
